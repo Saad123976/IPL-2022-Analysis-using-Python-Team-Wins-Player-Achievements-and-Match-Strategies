@@ -52,6 +52,6 @@ This project analyzes various aspects of the Indian Premier League (IPL) 2022 se
 
 **Top Scorer and Highscore**: The bar chart reveals the highest individual scores and the top scorers of the season, showcasing significant batting achievements.
 
-#Conclusion
+**Conclusion**
 
 The analysis of the IPL 2022 season data provides valuable insights into team and player performances. By visualizing match outcomes, strategies, and individual achievements, we gain a clearer understanding of the season's dynamics. This project demonstrates the power of data visualization in sports analytics and offers a foundation for further exploration and insights.
