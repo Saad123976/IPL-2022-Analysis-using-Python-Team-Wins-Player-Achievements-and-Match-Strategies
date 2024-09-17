@@ -1,10 +1,10 @@
-#IPL 2022 Analysis
+**IPL 2022 Analysis**
 
-#Introduction
+**Introduction**
 
 This project analyzes various aspects of the Indian Premier League (IPL) 2022 season using Python. The dataset includes match details, player statistics, and outcomes from the season. By leveraging data visualization libraries such as Plotly, we aim to uncover insights into team performance, individual achievements, and match outcomes.
 
-#Methodology
+**Methodology**
 
 #Data Preparation
 
@@ -12,35 +12,35 @@ This project analyzes various aspects of the Indian Premier League (IPL) 2022 se
 
 **Data Cleaning**: Mapping Values: The column won_by was mapped to categorize outcomes into 'Chasing' or 'Defending' based on whether the match was won by wickets or runs.
 
-#Visualization
+**Visualization**
 
-#Bar Chart: Number of Matches Won by Each Team
+**Bar Chart: Number of Matches Won by Each Team**
 
 **Purpose**: To visualize the frequency of matches won by each team.
 **Method**: Used Plotly Express to create a bar chart with match_winner as the x-axis.
 
-#Pie Chart: Matches Won by Chasing vs. Defending
+**Pie Chart: Matches Won by Chasing vs. Defending**
 
 **Purpose**: To show the proportion of matches won by chasing or defending.
 **Method**: Used Plotly Graph Objects to create a pie chart with won_by values categorized and colored for better visibility.
 
-#Bar Chart: Best Bowlers
+**Bar Chart: Best Bowlers**
 
 **Purpose**: To highlight the top bowlers based on their performance.
 **Method**: Created a bar chart with best_bowling as the x-axis to visualize the best bowlers.
 
-#Bar Chart: Player of the Match
+**Bar Chart: Player of the Match**
 
 **Purpose**: To show the distribution of the 'Player of the Match' awards.
 **Method**: Generated a bar chart using player_of_the_match as the x-axis.
 
-#Bar Chart: Top Scorer and Highscore
+**Bar Chart: Top Scorer and Highscore**
 
 **Purpose**: To display the top scorers and their respective high scores.
 **Method**: Created a bar chart with top_scorer as the x-axis and highscore as the y-axis, colored by highscore.
 
 
-#Results
+**Results**
 
 **Number of Matches Won by Each Team**: The bar chart indicates the number of matches each team won during the IPL 2022 season. Teams with more wins are easily identifiable, providing insights into team performance.
 
