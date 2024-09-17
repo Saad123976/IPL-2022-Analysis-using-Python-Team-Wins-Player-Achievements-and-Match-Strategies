@@ -6,7 +6,7 @@ This project analyzes various aspects of the Indian Premier League (IPL) 2022 se
 
 **Methodology**
 
-#Data Preparation
+**Data Preparation**
 
 **Data Loading**: The dataset was loaded using Pandas from a CSV file located at C:\Users\King\Desktop\matches.csv.
 
