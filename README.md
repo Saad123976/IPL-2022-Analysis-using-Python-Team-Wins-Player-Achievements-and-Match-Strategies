@@ -8,7 +8,7 @@ This project analyzes various aspects of the Indian Premier League (IPL) 2022 se
 
 **Data Preparation**
 
-**Data Loading**: The dataset was loaded using Pandas from a CSV file located at C:\Users\King\Desktop\matches.csv.
+**Data Loading**: The dataset was loaded using Pandas from a CSV file.
 
 **Data Cleaning**: Mapping Values: The column won_by was mapped to categorize outcomes into 'Chasing' or 'Defending' based on whether the match was won by wickets or runs.
 
